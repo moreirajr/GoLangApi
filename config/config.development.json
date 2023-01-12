@@ -1,0 +1,4 @@
+{
+    "ConnectionString": "sqlserver://sa:goLang123@localhost:1433?database=GoLangSampleDb&connection+timeout=30",
+    "Port": ":8080"
+}
